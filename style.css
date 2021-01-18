@@ -1,0 +1,254 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1350px;
+    height: 2200px;
+    background-color: thistle;
+}
+.top-header{
+    width: 1350px;
+    height: 50px;
+    background-color: rgb(43, 36, 36);
+}
+
+
+.left-header{
+    width: 400px;
+    height: 50px;
+    float: left;
+}
+
+#flati-logo{
+    font-size: 23px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.right-header{
+    width: 800px;
+    height: 50px;
+    float: right;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+.link:hover{
+    background-color: #24a0ed;
+    padding: 15px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.img_container{
+    width: 1350px;
+    height: 500px;
+    background-color:  #24a0ed;
+    text-align: center;
+}
+
+.f_b,.cdc,.op{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+
+.f_b{
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.cdc{
+    font-size: 20px;
+}
+
+.op{
+    margin-top: 30px;
+    height: 40px;
+    font-size: 12px;
+    background: none;
+    border: 2px solid white;
+}
+
+.text_container{
+    width: 100%;
+    height: 300px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.para{
+    font-size: 30px;
+    color: gray;
+    margin: 50px 200px ;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-box{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(243, 239, 239);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+.items{
+    width: 250px;
+    height: 250px;
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.logo_text,.color_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.logo_text{
+    color: rgb(99, 94, 94);
+    font-weight: bolder;
+    font-size: 15px;
+    
+}
+
+.color_text{
+    color: #24a0ed;
+    margin: -15px;    
+}
+
+.para_text{
+    color: gray;
+    font-size: 13px;
+    margin: 20px;
+    text-align: justify;
+}
+
+.flex-container{
+    width: 1350px;
+    height: 500px;
+    background-color: rgb(243, 239, 239);
+}
+
+.flex-box-rewrite{
+    width: 1250px;
+    height: 100%;
+    margin-left: 50px;
+}
+
+.large_box{
+    width: 390px;
+    height: 300px;
+    background-color: rgb(243, 239, 239);
+  
+}
+
+.box{
+    width:280px;
+    height: 300px;
+    background-color: rgb(35, 39, 77);
+    text-align: center;
+
+}
+
+.img-box{
+    width: 280px;
+    height: 200px;
+
+}
+
+.h2tag{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: gray;
+}
+
+.p1tag{
+    color: gray;
+}
+
+.vp{
+    border: none;
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    color: white;
+    background-color:  #24a0ed;
+    border-radius: 5px;
+}
+
+.h4tag,.p2tag{
+    color: rgb(190, 179, 179);
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.footer{
+    height: 400px;
+}
+
+.h5tag,.p3tag{
+    font-size: 30px;
+    color: rgb(230, 218, 218);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.p3tag{
+    font-size: 18px;
+    margin: 0px 300px;
+    line-height: 35px;
+
+}
+
+
+
+
+
+.bottom-footer{
+width: 100%;
+height: 100px;
+background-color: rgb(46, 46, 78);
+color: gray;
+text-align: center;
+}
+
+
+
+
+.fa {
+    font-size: 12px;
+    text-decoration: none;
+    margin: 5px 12px;
+    color: white;
+}
+  
+  .fa:hover {
+      opacity: 0.7;
+}
+
+
+  
